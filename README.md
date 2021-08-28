@@ -1,5 +1,5 @@
 # Video-Face-Detection
-Python: Jupither notebook  Video Face Detection
+Python: Jupyther Notebook  Video Face Detection
 
 <BR>
   <BR>
