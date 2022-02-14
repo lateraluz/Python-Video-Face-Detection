@@ -1,4 +1,4 @@
-# Video-Face-Detection
+# Python-Video-Face-Detection
 Python: Jupyther Notebook  Video Face Detection
 
 <BR>
